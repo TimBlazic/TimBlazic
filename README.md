@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TimBlazic
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Html, CSS, SQL and C
-- 💞️ I’m looking to collaborate on project with a database for students and teachers
 - 📫 How to reach me. Thru mail: timblazic.info@gmail.com
 
 <!---
