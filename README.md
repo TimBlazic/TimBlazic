@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim a Full-stack developer.
 - 💻  Currently building Harvey — a workspace that brings your chat, email, calendar, notes, projects and more into one place so nothing falls through the cracks. Where AI connects everything together.
-- 🐙 Working at Calda. A number one mobile/web development agency.
+- 🐙 Working at Calda. A number one mobile/web development agency. https://www.thecalda.com/
 - 📚 Typescript, NextJS, React, React Native, SQL, Postgresql, Javascript, HTML, CSS, TailwindCSS, Dart, MongoDB, ...
 
 <!---
